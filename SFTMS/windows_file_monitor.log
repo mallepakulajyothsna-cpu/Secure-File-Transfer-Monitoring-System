@@ -1,0 +1,9 @@
+2026-01-04 00:32:46,664 | INFO | CREATED | C:\Users\malle\OneDrive\Documents\SensitiveData\New Text Document.txt | User: MJYOTHSNA\malle | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-01-04 00:32:50,699 | INFO | MOVED | C:\Users\malle\OneDrive\Documents\SensitiveData\New Text Document.txt -> C:\Users\malle\OneDrive\Documents\SensitiveData\test.txt
+2026-01-04 00:32:57,775 | INFO | MODIFIED | C:\Users\malle\OneDrive\Documents\SensitiveData\test.txt | User: MJYOTHSNA\malle | Hash: cd2eca3535741f27a8ae40c31b0c41d4057a7a7b912b33b9aed86485d1c84676
+2026-01-04 00:33:09,878 | INFO | MODIFIED | C:\Users\malle\OneDrive\Documents\SensitiveData\test.txt | User: MJYOTHSNA\malle | Hash: 1c005d3cbddee8467d1db254183fa79dc6c5c6a236e3f11469562db712b82f4a
+2026-01-04 00:33:17,933 | INFO | DELETED | C:\Users\malle\OneDrive\Documents\SensitiveData\test.txt | User: MJYOTHSNA\malle
+2026-01-04 00:41:17,478 | INFO | CREATED | Source: C:\Users\malle\OneDrive\Documents\SensitiveData\New Text Document.txt | User: MJYOTHSNA\malle | Process: python.exe | Hash: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+2026-01-04 00:41:20,504 | INFO | MOVED | Source: C:\Users\malle\OneDrive\Documents\SensitiveData\New Text Document.txt | Destination: C:\Users\malle\OneDrive\Documents\SensitiveData\hello.txt | User: MJYOTHSNA\malle | Process: python.exe
+2026-01-04 00:41:37,688 | INFO | MODIFIED | Source: C:\Users\malle\OneDrive\Documents\SensitiveData\hello.txt | User: MJYOTHSNA\malle | Process: python.exe | Hash: 452c0b7ed05dc1a70fa47f8c592950569d517270158d2f33472c0327dcff0a0b
+2026-01-04 00:41:43,733 | INFO | DELETED | Path: C:\Users\malle\OneDrive\Documents\SensitiveData\hello.txt | User: MJYOTHSNA\malle | Process: python.exe
